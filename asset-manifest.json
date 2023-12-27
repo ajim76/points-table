@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/points-table/static/css/main.e55d0325.css",
+    "main.js": "/points-table/static/js/main.e18d59bd.js",
+    "index.html": "/points-table/index.html",
+    "main.e55d0325.css.map": "/points-table/static/css/main.e55d0325.css.map",
+    "main.e18d59bd.js.map": "/points-table/static/js/main.e18d59bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e55d0325.css",
+    "static/js/main.e18d59bd.js"
+  ]
+}
